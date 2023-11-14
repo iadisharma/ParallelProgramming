@@ -1,8 +1,7 @@
 # ParallelProgramming
 CS1666 Parallel Programming Lab
 
-Objective: At least 10 experiments covering the syllabus to be carried out using programming skill of the Subject concerned to get insight into the practical applications. 
-The outcome of the lab classes must lead to a skilled and self-sustained program developer.
+Objective: The outcome of the lab classes must lead to a skilled and self-sustained program developer.
 
 Pre-requisites: Concepts of Data Structures and Sorting Algorithms, Mutliprocessor, Multiprogramming architectures and their functioning.
 
